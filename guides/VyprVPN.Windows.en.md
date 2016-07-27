@@ -1,6 +1,6 @@
 <p>
 	1. First you need to download the GoldenFrog Windows clients. Please visit <a href="https://github.com/greatfire/cc"
-		target="_blank">https://github.com/greatfire/cc</a> and download <a href="https://github.com/greatfire/cc/raw/master/z/clients/VyprVPN-2.9.0.6857-installer.exe" target="_blank">VyprVPN-2.9.0.6857-installer.exe</a>
+		target="_blank">https://github.com/greatfire/cc</a> and download <a href="https://github.com/greatfire/cc/raw/master/z/clients/VyprVPN-2.9.1.6923-installer.exe" target="_blank">VyprVPN-2.9.1.6923-installer.exe</a>
 </p>
 
 <p>2. Double-click the installation file once the download is complete. If a security prompt appears, click Agree to install.

@@ -1,6 +1,6 @@
 <p>
 	1.首先需要下载GoldenFrog Windows客户端：请到<a href="https://github.com/greatfire/cc"
-		target="_blank">https://github.com/greatfire/cc</a>下载<a href="https://github.com/greatfire/cc/raw/master/z/clients/VyprVPN-2.9.0.6857-installer.exe" target="_blank">VyprVPN-2.9.0.6857-installer.exe</a>
+		target="_blank">https://github.com/greatfire/cc</a>下载<a href="https://github.com/greatfire/cc/raw/master/z/clients/VyprVPN-2.9.1.6923-installer.exe" target="_blank">VyprVPN-2.9.1.6923-installer.exe</a>
 </p>
 
 <p>2.双击下载完成的安装文件， 可能会出现安全提示，点击同意安装即可。</p>
