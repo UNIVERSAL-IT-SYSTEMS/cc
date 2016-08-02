@@ -1,6 +1,6 @@
 <p>
 	1. First you need to download the VPNSecure Windows client. Please visit <a
-		href="https://github.com/greatfire/cc" target="_blank">https://github.com/greatfire/cc</a> and download <a href="https://github.com/greatfire/cc/raw/master/z/clients/VPNS_2.0.7.exe" target="_blank">VPNS_2.0.7.exe</a>
+		href="https://github.com/greatfire/cc" target="_blank">https://github.com/greatfire/cc</a> and download <a href="https://github.com/greatfire/cc/raw/master/z/clients/VPNS_2.0.8.exe" target="_blank">VPNS_2.0.8.exe</a>
 </p>
 <p>2. Double-click the installation file once the download is complete. If presented with a security prompt, click “Agree” to install.
 </p>
